@@ -9,11 +9,12 @@ public class comethingcool {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(test1());
+		// this is a comment
 	}
 	
 	public static boolean test1() {
-		int output = digitSquareSum(5);
-		if(output != Math.pow(5, 2)) {
+		int output = digitSquareSum(7);
+		if(output != Math.pow(7, 2)) {
 			return false;
 		}
 		else {
