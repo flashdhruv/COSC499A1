@@ -1,18 +1,14 @@
-package qhrsols;
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.PrintWriter;
-import java.util.*;
-import java.util.Map.Entry;
-public class sol {
+import java.util.HashMap;
+import java.util.Map;
+public class comethingcool {
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//System.out.println(questionOne());
-		//System.out.println(questionTwo());
-		
+
 	}
 	
 	public static int digitSquareSum(int n) {
@@ -63,11 +59,5 @@ public class sol {
 		return file;
         
     }
+
 }
-    
-    
-    
-    
-   
-
-
